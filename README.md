@@ -12,17 +12,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on [Profast](https://github.com/sharifulislamudoy/Pro-Fast-Client)
-- 🌱 I’m currently learning **Next.js** and **GraphQL**
-- 🧠 Passionate about building scalable full-stack web applications
-- 🎯 2025 Goal: Contribute to open-source and launch a SaaS product
-- 📫 Reach me at: **sharifulislamudoy56@gmail.com**
-- 📍 Location: Dhaka, Bangladesh
-
----
-
 ## 🛠️ Technologies & Tools
 
 <p>
@@ -42,6 +31,17 @@
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on [Profast](https://github.com/sharifulislamudoy/Pro-Fast-Client)
+- 🌱 I’m currently learning **Next.js** and **GraphQL**
+- 🧠 Passionate about building scalable full-stack web applications
+- 🎯 2025 Goal: Contribute to open-source and launch a SaaS product
+- 📫 Reach me at: **sharifulislamudoy56@gmail.com**
+- 📍 Location: Dhaka, Bangladesh
 
 ---
 
