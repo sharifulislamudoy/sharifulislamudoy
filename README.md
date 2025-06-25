@@ -24,7 +24,4 @@
 
 - 📫 How to reach me **sharifulislamudoy56.gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharifulislamudoy&show_icons=true&locale=en" alt="sharifulislamudoy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharifulislamudoy&" alt="sharifulislamudoy" /></p>
 
