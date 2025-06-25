@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 [SecurePay](https://github.com/sharifulislamudoy/SecurePay)
+### 🔐 [SecurePay](https://github.com/sharifulislamudoy/Secure-Pay)
 A secure authentication app with Firebase and React.
 
 - 🔐 Email/Password, Google, GitHub login
