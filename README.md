@@ -15,6 +15,7 @@
 - 🧠 Passionate about building scalable full-stack web applications
 - 🎯 2025 Goal: Contribute to open-source and launch a SaaS product
 - 📫 Reach me at: **sharifulislamudoy56@gmail.com**
+- 📍 Location: Dhaka, Bangladesh
 
 ---
 
