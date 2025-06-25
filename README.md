@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam Udoy</h1>
 
 <p align="center">
+  <img src="https://i.ibb.co/81tFSZK/Untitled-design-83.png" alt="GitHub Banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Tech&center=true&width=440&height=45&color=61dafb&vCenter=true&pause=1000&size=22" />
 </p>
 
