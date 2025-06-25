@@ -38,6 +38,17 @@ A car rental platform built with the MERN stack.
 
 ---
 
+### 🏠 [Roomivio - Roommate Finder App](https://github.com/sharifulislamudoy/roomivio)
+A roommate listing and booking platform for students and travelers.
+
+- 🔎 Search and filter roommate listings
+- 📌 Feature posts, wishlist, and feedback options
+- 🔐 Firebase auth (Google, Email/Password)
+- 🧠 MERN stack with protected backend API routes
+- 🎨 Built with Tailwind CSS, DaisyUI, Framer Motion
+
+---
+
 ## 🛠️ Technologies & Tools
 
 <p>
