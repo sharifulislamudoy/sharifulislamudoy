@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam Udoy</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/81tFSZK/Untitled-design-83.png" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/sharifulislamudoy/sharifulislamudoy/main/Untitled design (83).png" alt="GitHub Banner" />
 </p>
 
 <p align="center">
