@@ -153,12 +153,4 @@ Roommate listing and booking platform tailored for students and travelers.
 ---
 
 
-## ⚡ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharifulislamudoy&theme=react-dark" />
-</p>
-
----
-
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
