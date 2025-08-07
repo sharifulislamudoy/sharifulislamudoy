@@ -23,7 +23,16 @@
   - Contribute to open-source projects
   - Launch my first SaaS product
 - 📍 Based in Dhaka, Bangladesh
-- 📫 Reach me at: **sharifulislamudoy56@gmail.com**
+
+---
+
+## 📫 Reach Me
+
+If you'd like to discuss a project, collaborate, or just say hello — feel free to reach out:
+
+- 🌐 **Portfolio Website**: [https://yourwebsite.com](https://yourwebsite.com)
+- 📧 **Email**: [sharifulislamudoy56@gmail.com](mailto:sharifulislamudoy56@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
@@ -99,13 +108,6 @@ Roommate listing and booking platform tailored for students and travelers.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharifulislamudoy&theme=react-dark" />
 </p>
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharifulislamudoy56@gmail.com)
 
 ---
 
