@@ -82,7 +82,7 @@
 
 If you'd like to discuss a project, collaborate, or just say hello — feel free to reach out:
 
-- 🌐 **Portfolio Website**: [shariful-islam-udoy.web.app/](https://shariful-islam-udoy.web.app/)
+- 🌐 **Portfolio Website**: [shariful-islam-udoy.web.app](https://shariful-islam-udoy.web.app/)
 - 📧 **Email**: [sharifulislamudoy56@gmail.com](mailto:sharifulislamudoy56@gmail.com)
 - 💼 **LinkedIn**: [Shariful Islam Udoy](www.linkedin.com/in/shariful-islam-udoy)
 
