@@ -101,24 +101,39 @@ Roommate listing and booking platform tailored for students and travelers.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharifulislamudoy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulislamudoy&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharifulislamudoy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Shariful's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulislamudoy&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sharifulislamudoy&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharifulislamudoy&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
-
-
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharifulislamudoy&theme=dracula&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sharifulislamudoy&theme=dracula&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
+
+## ⚡ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharifulislamudoy&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 
 ## ⚡ Activity Graph
 
