@@ -104,10 +104,13 @@ Roommate listing and booking platform tailored for students and travelers.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharifulislamudoy&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharifulislamudoy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulislamudoy&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 ---
+
+
 
 ## 🏆 GitHub Trophies
 
