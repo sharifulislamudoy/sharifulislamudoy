@@ -14,17 +14,35 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc in Mathematics | Dhaka College
-- 👨‍💻 Full Stack MERN Developer with hands-on project experience
-- 🔭 Currently working on: [Profast](https://github.com/sharifulislamudoy/Pro-Fast-Client)
-- 🌱 Currently learning: **Next.js**, **GraphQL**, and **Clean Architecture**
-- 🧠 Passionate about scalable web apps, UI/UX, and backend security
-- 🎯 2025 Goals:
-  - Contribute to open-source projects
-  - Launch my first SaaS product
-- 📍 Based in Dhaka, Bangladesh
+### 🎓 Academic Background
+- Pursuing B.Sc in **Mathematics** from **Dhaka College**
+- Strong analytical and logical problem-solving skills rooted in mathematical thinking
+
+### 💼 Professional Summary
+- MERN Stack Developer with practical, hands-on experience building **real-world full-stack applications**
+- Skilled in building responsive UIs, integrating RESTful APIs, securing backend routes, and deploying full-stack solutions
+- Experienced in both **individual projects** and **collaborative environments**
+
+### 🔭 Current Focus
+- 🔨 Working on: [Profast](https://github.com/sharifulislamudoy/Pro-Fast-Client) — a performance-focused full-stack project
+- 📚 Learning: **Next.js**, **GraphQL**, and software architecture patterns like **Clean Architecture**
+
+### 🎯 2025 Goals
+- ✅ Contribute meaningfully to open-source projects
+- 🚀 Launch my own SaaS product solving real-world problems
+- 📈 Continue mastering backend security, scalability, and performance optimization
+
+### 💡 Interests & Values
+- 💻 Passionate about creating performant, scalable, and user-centric web apps
+- 🎨 Enthusiastic about UI/UX design and smooth user experiences
+- 🔐 Strong interest in backend security and authentication workflows
+
+### 📍 Location
+- Dhaka, Bangladesh (GMT+6)
 
 ---
+
+
 
 ## 📫 Reach Me
 
