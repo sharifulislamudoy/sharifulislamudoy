@@ -90,12 +90,14 @@ If you'd like to discuss a project, collaborate, or just say hello — feel free
 
 ## 🚀 Featured Projects
 
-### 🔐 [SecurePay](https://github.com/sharifulislamudoy/Secure-Pay)
-A secure authentication system built with React and Firebase.
+### 💊 [Medi-Hurt - Multi-Vendor Medicine E-commerce](https://github.com/sharifulislamudoy/Medi-Hurt)
+A multi-vendor platform specializing in online medicine and healthcare products.
 
-- ✉️ Email/Password, Google, GitHub authentication
-- 🎨 Tailwind CSS + Framer Motion UI
-- 🔐 Role-based routing with protected dashboard
+- 🛒 Full MERN stack e-commerce application
+- 👩‍⚕️ Separate dashboards for Admin, Sellers, and Users
+- 🔐 Secure authentication and role-based access control
+- 💳 Integrated payment system and sales reporting
+- 🎨 Responsive UI built with React and Tailwind CSS
 
 ---
 
@@ -118,14 +120,12 @@ Roommate listing and booking platform tailored for students and travelers.
 
 ---
 
-### 💊 [Medi-Hurt - Multi-Vendor Medicine E-commerce](https://github.com/sharifulislamudoy/Medi-Hurt)
-A multi-vendor platform specializing in online medicine and healthcare products.
+### 🔐 [SecurePay](https://github.com/sharifulislamudoy/Secure-Pay)
+A secure authentication system built with React and Firebase.
 
-- 🛒 Full MERN stack e-commerce application
-- 👩‍⚕️ Separate dashboards for Admin, Sellers, and Users
-- 🔐 Secure authentication and role-based access control
-- 💳 Integrated payment system and sales reporting
-- 🎨 Responsive UI built with React and Tailwind CSS
+- ✉️ Email/Password, Google, GitHub authentication
+- 🎨 Tailwind CSS + Framer Motion UI
+- 🔐 Role-based routing with protected dashboard
 
 ---
 
