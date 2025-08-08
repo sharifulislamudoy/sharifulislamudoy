@@ -36,6 +36,20 @@
 - 🎨 Enthusiastic about UI/UX design and smooth user experiences
 - 🔐 Strong interest in backend security and authentication workflows
 
+---
+
+## 🛠 Skills
+
+- **Frontend Development:** Responsive UI design, Component-based architecture, State management, SPA development  
+- **Backend Development:** RESTful API design, Authentication & Authorization (JWT, Firebase), Database schema design  
+- **Database Management:** MongoDB CRUD operations, Aggregation pipelines, Data modeling  
+- **UI/UX Design:** Wireframing, Prototyping, User flow design, Accessibility & usability best practices  
+- **Performance Optimization:** Code splitting, Lazy loading, Query optimization  
+- **Version Control & Deployment:** Git, GitHub, Firebase Hosting, Vercel, MongoDB Atlas deployment  
+- **Soft Skills:** Problem-solving, Team collaboration, Time management, Adaptability  
+
+---
+
 ## 📫 Reach Me
 
 If you'd like to discuss a project, collaborate, or just say hello — feel free to reach out:
@@ -84,7 +98,6 @@ If you'd like to discuss a project, collaborate, or just say hello — feel free
 </p>
 
 ---
-
 
 ## 🚀 Featured Projects
 
@@ -140,7 +153,6 @@ A secure authentication system built with React and Firebase.
 
 ---
 
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -156,6 +168,5 @@ A secure authentication system built with React and Firebase.
 </p>
 
 ---
-
 
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
