@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Modern%2C+Scalable+%26+User-Focused+Web+Applications;Aspiring+UI%2FUX+Specialist&center=true&width=500&height=45&color=61dafb&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Modern%2C+Scalable+%26+User-Focused+Web+App;Aspiring+UI%2FUX+Specialist&center=true&width=500&height=45&color=61dafb&vCenter=true&pause=1000&size=22" />
 </p>
 
 <h3 align="center">🚀 Building Scalable Web Applications with the MERN Stack</h3>
