@@ -29,7 +29,6 @@
 
 ### 🎯 2025 Goals
 - ✅ Contribute meaningfully to open-source projects
-- 🚀 Launch my own SaaS product solving real-world problems
 - 📈 Continue mastering backend security, scalability, and performance optimization
 
 ### 💡 Interests & Values
