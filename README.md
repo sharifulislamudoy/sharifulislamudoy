@@ -118,6 +118,17 @@ Roommate listing and booking platform tailored for students and travelers.
 
 ---
 
+### 💊 [Medi-Hurt - Multi-Vendor Medicine E-commerce](https://github.com/sharifulislamudoy/Medi-Hurt)
+A multi-vendor platform specializing in online medicine and healthcare products.
+
+- 🛒 Full MERN stack e-commerce application
+- 👩‍⚕️ Separate dashboards for Admin, Sellers, and Users
+- 🔐 Secure authentication and role-based access control
+- 💳 Integrated payment system and sales reporting
+- 🎨 Responsive UI built with React and Tailwind CSS
+
+---
+
 ## 📈 GitHub Stats & Insights
 
 <p align="center">
