@@ -24,8 +24,8 @@
 - Experienced in both **individual projects** and **collaborative environments**
 
 ### 🔭 Current Focus
-- 🔨 Working on: [Profast](https://github.com/sharifulislamudoy/Pro-Fast-Client) — a performance-focused full-stack project
-- 📚 Learning: **Next.js**, **GraphQL**, and software architecture patterns like **Clean Architecture**
+- 🔨 Working on: [DigitalXpress](https://github.com/sharifulislamudoy/Digital-Xpress-Client) — a e-commerece focused Full-Stack Project
+- 📚 Learning: **Next.js**, **UI/UX**
 
 ### 🎯 2025 Goals
 - ✅ Contribute meaningfully to open-source projects
