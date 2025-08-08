@@ -40,33 +40,6 @@
 
 ## 🛠 Skills
 
-- **Frontend Development:** Responsive UI design, Component-based architecture, State management, SPA development  
-- **Backend Development:** RESTful API design, Authentication & Authorization (JWT, Firebase), Database schema design  
-- **Database Management:** MongoDB CRUD operations, Aggregation pipelines, Data modeling  
-- **UI/UX Design:** Wireframing, Prototyping, User flow design, Accessibility & usability best practices  
-- **Performance Optimization:** Code splitting, Lazy loading, Query optimization  
-- **Version Control & Deployment:** Git, GitHub, Firebase Hosting, Vercel, MongoDB Atlas deployment  
-- **Soft Skills:** Problem-solving, Team collaboration, Time management, Adaptability  
-
----
-
-## 📫 Reach Me
-
-If you'd like to discuss a project, collaborate, or just say hello — feel free to reach out:
-
-- 🌐 **Portfolio Website**: [shariful-islam-udoy.web.app](https://shariful-islam-udoy.web.app/)
-- 📧 **Email**: [sharifulislamudoy56@gmail.com](mailto:sharifulislamudoy56@gmail.com)
-- 💼 **LinkedIn**: [Shariful Islam Udoy](www.linkedin.com/in/shariful-islam-udoy)
-
----
-
-### 📍 Location
-- Dhaka, Bangladesh (GMT+6)
-
----
-
-## 💼 Tech Stack & Tools
-
 ### 🧩 Frontend
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -98,6 +71,23 @@ If you'd like to discuss a project, collaborate, or just say hello — feel free
 </p>
 
 ---
+
+## 📫 Reach Me
+
+If you'd like to discuss a project, collaborate, or just say hello — feel free to reach out:
+
+- 🌐 **Portfolio Website**: [shariful-islam-udoy.web.app](https://shariful-islam-udoy.web.app/)
+- 📧 **Email**: [sharifulislamudoy56@gmail.com](mailto:sharifulislamudoy56@gmail.com)
+- 💼 **LinkedIn**: [Shariful Islam Udoy](www.linkedin.com/in/shariful-islam-udoy)
+
+---
+
+### 📍 Location
+- Dhaka, Bangladesh (GMT+6)
+
+---
+
+
 
 ## 🚀 Featured Projects
 
